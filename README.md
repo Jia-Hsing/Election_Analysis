@@ -18,6 +18,8 @@ The purpose of this election audit analysis is to help us determine the total nu
 -Winner: Diana DeGette
 -Winning Vote Count: 272,892
 -Winning Percentage: 73.8%
+![image](https://user-images.githubusercontent.com/71470238/131256241-d7815464-8a09-473d-83f5-d5f9e97e729e.png)
+
 ## 3. Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 a. We can use this script to analyze other elections by just changing their names in the CSV file.
 b. If the new election have more data like (women and men), we can change a little bit the script to run the code.
